@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_the_second_number">enter the second number</string>
+    <string name="enter_the_first_element">enter the first element</string>
+    <string name="process">process</string>
+    <string name="mod">*(mod)</string>
+    <string name="sub">sub</string>
+    <string name="sum">sum</string>
+    <string name="Result">Result</string>
+    <string name="div">%(div)</string>
+</resources>
